@@ -1,2 +1,4 @@
 # IRIS_SR_CNN
-srcnn for iris sr
+implementation of SRCNN in Keras, training on 3 Iris datasets (casia, berc, ndcld).
+
+
